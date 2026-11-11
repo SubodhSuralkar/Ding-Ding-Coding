@@ -1,3 +1,16 @@
+
+
+
+"""
+#modular programming is using import
+import math
+print(math.factorial(5))
+import mymodule
+#here i created mymodule to acces it using import
+print(mymodule.calculator(5,5))
+"""
+
+"""
 #this is how a to write a file
 file = open('file.txt','w')
 
@@ -7,7 +20,7 @@ file.write("I am learning to write in a file")
 file.close()
 
 #this is how afile is read
-"""
+
 file = open('file.txt','r')
 f = file.readlines()
 print(f)
