@@ -5,8 +5,6 @@ try:
 except:
     print("Invalid username")
 
-print("eheheheheh just adding some comments to mess around aand \n show some progress in github btw i am doing another projects and \n its 3am in the morning or night what should i say i don't but one thing is sure \n i am enjoying this and i am in flow state")
-
 """
 #modular programming is using import
 import math
